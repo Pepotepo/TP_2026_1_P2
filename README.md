@@ -8,4 +8,4 @@ Este proyecto implimenta un sistema modular para gestionar usuarios, entrenadore
  1. [Análisis del problema](https://github.com/Pepotepo/TP_2026_1_P2/wiki/1.-An%C3%A1lisis-del-problema)
  2. [Requerimientos](https://github.com/Pepotepo/TP_2026_1_P2/wiki/2.-Requerimientos)
  3. [Modelado usando UML](https://github.com/Pepotepo/TP_2026_1_P2/wiki/3.-Herramientas-empletas)
- 4. [Diseño de subsistemas]
+ 4. [Diseño de subsistemas](https://github.com/Pepotepo/TP_2026_1_P2/wiki/4.-Dise%C3%B1o-de-subsistemas)
